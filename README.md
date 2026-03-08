@@ -1,2 +1,2 @@
 
-![Dashboard Preview](images/excel.png)
+![Dashboard Preview](excel.png)
